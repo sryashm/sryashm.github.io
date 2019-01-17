@@ -49,11 +49,10 @@
   "Key Competencies and Skills": [
     {
      "Professional Skills":[
-      "name": "Languages and Frameworks",
-      "keywords": [
+      "name": [
         "C",
         "C++",
-        "C#"
+        "C#",
         "Java",
         "Swift"
        ]
@@ -61,10 +60,10 @@
     {
       "Personal Skills": [
         "name": [ 
-          "skilled communicator"
-          "Able to work under pressure"
-          "leadership skills"
-          "Time management"
+          "skilled communicator",
+          "Able to work under pressure",
+          "leadership skills",
+          "Time management",
       ]
     }       
   ],
