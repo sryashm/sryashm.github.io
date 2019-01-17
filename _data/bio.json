@@ -41,18 +41,14 @@
       ]
     },
     {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
       "name": "artificial intelligence",
       "keywords": [
       ]
     }
   ],
-  "Professional skills": [
+  "Key Competencies and Skills": [
     {
+     "Professional Skills":[
       "name": "Languages and Frameworks",
       "keywords": [
         "C",
@@ -60,14 +56,17 @@
         "C#"
         "Java",
         "Swift"
-      ]
+       ]
     },
-    "Personal skills": [
-         
-    ]
-    
-    
-    }
+    {
+      "Personal Skills": [
+        "name": [ 
+          "skilled communicator"
+          "Able to work under pressure"
+          "leadership skills"
+          "Time management"
+      ]
+    }       
   ],
   "education": [
     {
