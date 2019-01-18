@@ -1,123 +1,115 @@
 {
-  "basics": {
-    "name": "Sryash Maheshwari",
-    "label": "Student",
-    "picture": "https://sryashm.github.io/template/images/sryash.png",
-    "email": "sryashm@gmail.com",
-    "phone": "+919739836163",
-    "website": "https://sryashm.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
-    "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Bengaluru",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "sryashm",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "sryash maheshwari",
-        "url": "http://linkedin.com/in/sryash-maheshwari"
-      },
-      {
-        "network": "instagram",
-        "username": "sryashm",
-        "url": "http://instagram.com/sryashm"
-      }
-    ]
-  },
-  "interests": [
-    {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
-  ],
-  "Key Competencies and Skills": [
-    {
-     "Professional Skills":[
-      "name": "", [
-        "C",
-        "C++",
-        "C#",
-        "Java",
-        "Swift"
-       ]
-      ]
-    }
-    ],
-        "name": "Personal Skills"" ,[ 
-          "skilled communicator",
-          "Able to work under pressure",
-          "leadership skills",
-          "Time management"
-      ]      
-  ],
-  "education": [
-    {
-      "institution": "MITs Vishwashanti Gurukul",
-      "area": "High School",
-      "studyType": "Science",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-    },
-    
-    { "institution": "Asia Pacific University",
-      "area": "Foundation (pre-university)",
-      "studyType": "Information Technology",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-    },
-    
-      { "institution": "MITs Vishwashanti Gurukul",
-      "area": "High School",
-      "studyType": "Science",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-    },
-  ], 
-  "work": [
-    {
-      "company": "Airtel Tanzania",
-      "position": "Android Developer",
-      "website": "",
-      "startDate": "2017-10-02",
-      "endDate": "2017-12-22",
-      "Description": "Built a registration app to register customers"
-    }
-  ],
-  
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+	"basics": {
+		"name": "Sryash Maheshwari",
+		"label": "Student",
+		"picture": "https://sryashm.github.io/template/images/sryash.png",
+		"email": "sryashm@gmail.com",
+		"phone": "+919739836163",
+		"website": "https://sryashm.github.io",
+		"summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+		"location": {
+			"address": "",
+			"postalCode": "96822",
+			"city": "Bengaluru",
+			"countryCode": "USA",
+			"region": "Hawaii"
+		},
+		"profiles": [{
+				"network": "github",
+				"username": "sryashm",
+				"url": "http://github.com/changeme"
+			},
+			{
+				"network": "linkedin",
+				"username": "sryash maheshwari",
+				"url": "http://linkedin.com/in/sryash-maheshwari"
+			},
+			{
+				"network": "instagram",
+				"username": "sryashm",
+				"url": "http://instagram.com/sryashm"
+			}
+		]
+	},
+	"interests": [{
+			"name": "internet of things",
+			"keywords": [
+				"Arduino",
+				"TI MSP430"
+			]
+		},
+		{
+			"name": "artificial intelligence",
+			"keywords": []
+		}
+	],
+	"Key Competencies and Skills": [{
+		"Professional Skills": [{
+			"name": [
+				"C",
+				"C++",
+				"C#",
+				"Java",
+				"Swift"
+			]
+		}]
+	}],
+	"Professional Skills": [{
+		"name": [
+			"skilled communicator",
+			"Able to work under pressure",
+			"leadership skills",
+			"Time management"
+		]
+	}],
+	"education": [{
+			"institution": "MITs Vishwashanti Gurukul",
+			"area": "High School",
+			"studyType": "Science",
+			"startDate": "2013-09-01",
+			"endDate": "Present"
+		},
+
+		{
+			"institution": "Asia Pacific University",
+			"area": "Foundation (pre-university)",
+			"studyType": "Information Technology",
+			"startDate": "2013-09-01",
+			"endDate": "Present"
+		},
+
+		{
+			"institution": "MITs Vishwashanti Gurukul",
+			"area": "High School",
+			"studyType": "Science",
+			"startDate": "2013-09-01",
+			"endDate": "Present"
+		}
+	],
+	"work": [{
+		"company": "Airtel Tanzania",
+		"position": "Android Developer",
+		"website": "",
+		"startDate": "2017-10-02",
+		"endDate": "2017-12-22",
+		"Description": "Built a registration app to register customers"
+	}],
+
+	"awards": [{
+			"title": "B+ Scholarship",
+			"date": "2013-Present",
+			"awarder": "State of Hawaii",
+			"summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+		},
+		{
+			"title": "First place",
+			"date": "2015",
+			"awarder": "University of Hawaii Micromouse Competition",
+			"summary": "My team won first place in 2015.  See my portfolio site for more details."
+		}
+	],
+	"references": [{
+		"name": "Available upon request",
+		"reference": ""
+	}]
 }
