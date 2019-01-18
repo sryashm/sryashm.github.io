@@ -1,7 +1,7 @@
 {
 	"basics": {
 		"name": "Sryash Maheshwari",
-		"label": "Student",
+		"label": "Fresh Graduate",
 		"picture": "https://sryashm.github.io/template/images/sryash.png",
 		"email": "sryashm@gmail.com",
 		"phone": "+919739836163",
@@ -11,13 +11,13 @@
 			"address": "",
 			"postalCode": "96822",
 			"city": "Bengaluru",
-			"countryCode": "USA",
-			"region": "Hawaii"
+			"countryCode": "India",
+			"region": "Karnataka"
 		},
 		"profiles": [{
 				"network": "github",
 				"username": "sryashm",
-				"url": "http://github.com/changeme"
+				"url": "http://github.com/sryashm"
 			},
 			{
 				"network": "linkedin",
@@ -32,14 +32,15 @@
 		]
 	},
 	"interests": [{
-			"name": "internet of things",
-			"keywords": [
-				"Arduino",
-				"TI MSP430"
-			]
+			"name": "Cryptocurrency",
+			"keywords": []
 		},
 		{
-			"name": "artificial intelligence",
+			"name": "Artificial intelligence",
+			"keywords": []
+		},
+		{
+			"name": "Mobile Development",
 			"keywords": []
 		}
 	],
@@ -66,15 +67,15 @@
 			"institution": "MITs Vishwashanti Gurukul",
 			"area": "High School",
 			"studyType": "Science",
-			"startDate": "2013-09-01",
-			"endDate": "Present"
+			"startDate": "April 2012",
+			"endDate": ""
 		},
 
 		{
 			"institution": "Asia Pacific University",
 			"area": "Foundation (pre-university)",
 			"studyType": "Information Technology",
-			"startDate": "2013-09-01",
+			"startDate": "October 2014",
 			"endDate": "Present"
 		},
 
@@ -95,17 +96,15 @@
 		"Description": "Built a registration app to register customers"
 	}],
 
-	"awards": [{
-			"title": "B+ Scholarship",
-			"date": "2013-Present",
-			"awarder": "State of Hawaii",
-			"summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+	"Projects": [{
+			"title": "Smart Storage",
+			"date": "2018",
+			"summary": "This project was based on an android application where saving and keeping track receipts can be made easier just by simply taking a picture of the receipt and saving it onto firebase. The technology behind the solution uses Firebase to store data and uses most of the android UI/UX design principles making it look like any other android application."
 		},
 		{
-			"title": "First place",
-			"date": "2015",
-			"awarder": "University of Hawaii Micromouse Competition",
-			"summary": "My team won first place in 2015.  See my portfolio site for more details."
+			"title": "Fishackathon",
+			"date": "2018",
+			"summary": "Fishackathon called up on developers of all skill levels to build and pitch a technological solution to sustainable fisheries. My team built a web application that records and tracks fish as assets on the blockchain using camera input. The technology behind the solution uses a TensorFlow model to do image recognition and IBM Hyperledger blockchain. We placed 2nd in this competition. It was a prestigious moment to address problems brought up by organizations such as the WWF and the US Department of State."
 		}
 	],
 	"references": [{
