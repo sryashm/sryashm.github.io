@@ -80,9 +80,9 @@
 		},
 
 		{
-			"institution": "MITs Vishwashanti Gurukul",
-			"area": "High School",
-			"studyType": "Science",
+			"institution": "Asia Pacific University",
+			"area": "Undergraduate studies",
+			"studyType": "Information Technology ",
 			"startDate": "2013-09-01",
 			"endDate": "Present"
 		}
@@ -90,7 +90,6 @@
 	"work": [{
 		"company": "Airtel Tanzania",
 		"position": "Android Developer",
-		"website": "",
 		"startDate": "2017-10-02",
 		"endDate": "2017-12-22",
 		"Description": "Built a registration app to register customers"
