@@ -1,17 +1,14 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/APU.png
+title: APU consultation system
 permalink: projects/vacay
-# All dates must be YYYY-MM-DD format!
-date: 2015-12-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - IOS Development
+  - Swift 3.0
+  - Coredata
+summary: An IOS app where students can book consultations with their lecturers.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
