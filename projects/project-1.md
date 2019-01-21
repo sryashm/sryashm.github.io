@@ -15,7 +15,8 @@ This project was based on an android application where saving and keeping track 
 
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Login.jpg">
+  <img class="ui image" src="../images/Login.png">
+  <img class="ui image" src="../images/Add.png">
 </div>
 
 
