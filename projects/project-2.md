@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/APU.png
+image: images/APU.jpeg
 title: APU consultation system
 permalink: projects/vacay
 labels:
