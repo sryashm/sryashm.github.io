@@ -4,8 +4,6 @@ type: project
 image: images/smartstorage.jpg
 title: Smart Storage
 permalink: projects/smartstorage
-# All dates must be YYYY-MM-DD format!
-date: 2015-07-01
 labels:
   - android development
   - java
