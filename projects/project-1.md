@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/smartstorage.jpg
+image: images/smartstorage.png
 title: Smart Storage
 permalink: projects/smartstorage
 labels:
