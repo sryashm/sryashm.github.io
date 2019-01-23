@@ -112,14 +112,11 @@
 		},
 		{
 			"name": "Blockchain",
-			"keywords": []
+			"keywords": ["Cryptocurrency"]
 		},
 		{
 			"name": "Artificial Intelligence",
-			"keywords": [
-				"power quality",
-				"energy analytics"
-			]
+			"keywords": ["Machine learning"]
 		}
 	],
 	"references": [{
