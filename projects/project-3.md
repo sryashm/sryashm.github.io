@@ -5,7 +5,7 @@ image: images/fishackathon.jpg
 title: 
 permalink: projects/
 
-summary: .
+summary: A technological solution to sustainable fisheries.
 ---
 
 <div class="ui small rounded images">
