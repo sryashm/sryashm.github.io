@@ -15,4 +15,5 @@ This project was given by the university as an assignment where an IOS applicati
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/APU.png">
+  <img class="ui image" src="../images/apu_signup.png">
 </div>
