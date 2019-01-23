@@ -4,7 +4,7 @@
 		"label": "Fresh Graduate",
 		"picture": "https://sryashm.github.io/images/sryash2.png",
 		"email": "sryashm@gmail.com",
-		"phone": "+919739836163",
+		"phone": "808-956-3489",
 		"website": "https://sryashm.github.io",
 		"summary": "A creative and motivated IT undergraduate with abilities to develop relevant and efficient solutions and eager to apply these skills in real world applications. Actively looking forward in perusing my career in mobile technology.",
 		"location": {
@@ -104,18 +104,18 @@
 		}
 	],
 	"interests": [{
-			"name": "Software Engineering",
+			"name": "Mobile Development",
 			"keywords": [
-				"software metrics",
-				"full stack application development"
+				"Android Development",
+				"IOS development"
 			]
 		},
 		{
-			"name": "Serious Games",
+			"name": "Blockchain",
 			"keywords": []
 		},
 		{
-			"name": "Renewable Energy",
+			"name": "Artificial Intelligence",
 			"keywords": [
 				"power quality",
 				"energy analytics"
