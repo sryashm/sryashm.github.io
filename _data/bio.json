@@ -32,11 +32,11 @@
 		"Description": "Built a registration app to register customers."
 	}],
 	"education": [{
-			"institution": "MITs Vishwashanti Gurukul, India",
-			"area": "High School",
-			"studyType": "Science",
-			"startDate": "April 2012",
-			"endDate": "June 2014"
+			"institution": "Asia Pacific University, Malaysia",
+			"area": "Undergraduate studies",
+			"studyType": "Information Technology",
+			"startDate": "November 2015",
+			"endDate": "October 2018"
 		},
 		{
 			"institution": "Asia Pacific University, Malaysia",
@@ -46,11 +46,11 @@
 			"endDate": "October 2015"
 		},
 		{
-			"institution": "Asia Pacific University, Malaysia",
-			"area": "Undergraduate studies",
-			"studyType": "Information Technology ",
-			"startDate": "November 2015",
-			"endDate": "October 2018"
+			"institution": "MITs Vishwashanti Gurukul, India",
+			"area": "High School",
+			"studyType": "Science",
+			"startDate": "April 2012",
+			"endDate": "June 2014"
 		}
 	],
 	"Projects": [{
