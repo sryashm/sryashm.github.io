@@ -4,6 +4,10 @@ type: project
 image: images/fishackathon.jpg
 title: What the Fish
 permalink: projects/fishacakathon
+labels:
+  - Blockchain
+  - TensorFlow
+  - Adaptive website 
 
 summary: A technological solution to sustainable fisheries.
 ---
