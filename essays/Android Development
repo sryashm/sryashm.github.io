@@ -1,0 +1,18 @@
+---
+layout: essay
+type: essay
+title: Swift
+# All dates must be YYYY-MM-DD format!
+date: 2015-09-08
+labels:
+  - Swift 3.0,4.0
+  - Xcode
+---
+
+I learnt this language by starting off with an assignment in the second year of my degree. learning this language 
+is a fantastic way to write software. It’s a safe, fast, and interactive programming language. The compiler is optimized for performance and the language is optimized for development.
+
+Some of the things i learnt with developing IOS apps is how core data is used also various swift skills where variables are always initalized before. also that its easier to express big ideas as the language is so clear and concise.  
+
+Swift is friendly to new programmers. Writing Swift code in a playground lets you experiment with code and see the results immediately which is perfect for just practicing, without having to build and running an app.
+
