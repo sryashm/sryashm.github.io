@@ -5,14 +5,12 @@ title: Android Development
 # All dates must be YYYY-MM-DD format!
 date: 2015-09-08
 labels:
-  - Swift 3.0,4.0
-  - Xcode
+  - Android Studio
+  - Mobile Development
 ---
 
-I learnt this language by starting off with an assignment in the second year of my degree. learning this language 
-is a fantastic way to write software. It’s a safe, fast, and interactive programming language. The compiler is optimized for performance and the language is optimized for development.
-
-Some of the things i learnt with developing IOS apps is how core data is used also various swift skills where variables are always initalized before. also that its easier to express big ideas as the language is so clear and concise.  
-
-Swift is friendly to new programmers. Writing Swift code in a playground lets you experiment with code and see the results immediately which is perfect for just practicing, without having to build and running an app.
-
+I am most comfetable in making android apps as I have more experience in android development compared to any other development.
+This development skill was first learnt in my second year of degree where the assignment proposed was to make an android app.
+Over time I did more projects related to android development such as doing my final year project which was an android based app. 
+Also going to lots of other competitions in university I familiarized my self with the android development concepts such as the life cycle
+and how to develop based on that. I also learnt how to connect databases onto the app such as Firebase. 
