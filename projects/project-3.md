@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/fishackathon.jpg
-title: 
+title: What the Fish
 permalink: projects/
 
 summary: A technological solution to sustainable fisheries.
